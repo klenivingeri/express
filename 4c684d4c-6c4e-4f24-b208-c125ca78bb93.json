@@ -1,68 +1,14 @@
 [ 
     {
-        "id": "a",
-        "body_": ["panturrilha ", "coxa"],
+        "class": "A",
+        "body": ["panturrilha ", "coxa"],
         "rating": ["hipertrofia", "Masculino"],
         "exercicios": ["perna1", "perna2","perna3","perna4","perna5","perna6","perna7" ]
     },
-     {
-        "id": "A",
-        "body_": "panturrilha,coxa",
-        "rating": "hipertrofia,Masculino",
-        "exercicios": "perna1,perna2,perna3,perna4,perna5,perna6,perna7"
-    },
     {
-        "id": 1,
-        "name": "Ostra/ molusco com elástico",
-        "description": "Glúteo médio",
-        "series": 3,
-        "repetics": 15,
-        "way": "bola"
-    },
-    {
-        "id": 2,
-        "name": "Elevação Pélvica no solo com elástico + barra",
-        "description": "É um exercício que visa trabalhar a musculatura do glúteo",
-        "series": 3,
-        "repetics": 15,
-        "way": "Horizontal"
-    },
-    {
-        "id": 3,
-        "name": "Leg press 45",
-        "description": "Fortalece a panturrilha, o quadríceps (parte da frente das coxas), os glúteos e os isquiotibiais (posteriores das coxas)",
-        "series": 3,
-        "repetics": 15,
-        "way": "Maq"
-    },
-    {
-        "id": 4,
-        "name": "Agachamento c/ halteres",
-        "description": "O exercício ativa os glúteos e vários músculos das pernas, inclusive os quadríceps (parte da frente da coxa), os isquiotibiais (parte detrás da coxa) e as panturrilhas.",
-        "series": 3,
-        "repetics": 15
-    },
-    {
-        "id": 5,
-        "name": "Extensora",
-        "description": "Trabalha o quadríceps – vasto lateral, vasto medial, vasto intermédio e reto femoral – é o principal músculo recrutado durante o exercício.",
-        "series": 3,
-        "repetics": 15,
-        "way": "Uni"
-    },
-    {
-        "id": 6,
-        "name": "Stiff halter/barra",
-        "description": "Trabalhar glúteos e pernas e também ajuda a fortalecer os músculos da parte posterior do tronco, que são responsáveis por mantê-lo reto e os músculos isquiotibiais.",
-        "series": 3,
-        "repetics": 15
-    },
-    {
-        "id": 7,
-        "name": "Flexora deitada",
-        "description": "Trabalha os músculos isquiotibiais que são os músculos posteriores da coxa",
-        "series": 3,
-        "repetics": 15,
-        "way": "Uni"
+        "class": "B",
+        "body": ["bíceps", "triceps"],
+        "rating": ["hipertrofia", "Masculino"],
+        "exercicios": ["braco1", "braco2","brac3","braco4","braco5","braco6","braco7" ],
     }
 ]
