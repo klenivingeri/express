@@ -1,5 +1,11 @@
 [ 
     {
+        "session": "A",
+        "body": ["panturrilha ", "coxa"],
+        "rating": ["hipertrofia", "Masculino"],
+        "exercicios": ["perna1", "perna2","perna3","perna4","perna5","perna6","perna7" ]
+    },
+    {
         "id": 1,
         "name": "Ostra/ molusco com elástico",
         "description": "Glúteo médio",
