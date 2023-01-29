@@ -1,12 +1,5 @@
 [ 
     {
-        "id": 5,
-        "name": "Extensora",
-        "description": "Trabalha o quadríceps – vasto lateral, vasto medial, vasto intermédio e reto femoral – é o principal músculo recrutado durante o exercício.",
-        "series": 3,
-        "repetics": 15
-    },
-    {
         "id": 6,
         "name": "Stiff halter/barra",
         "description": "Trabalhar glúteos e pernas e também ajuda a fortalecer os músculos da parte posterior do tronco, que são responsáveis por mantê-lo reto e os músculos isquiotibiais.",
