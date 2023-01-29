@@ -19,6 +19,6 @@
         "class": "B",
         "body": ["bíceps", "triceps"],
         "rating": ["hipertrofia", "Masculino"],
-        "exercicios": ["braco1", "braco2","brac3","braco4","braco5","braco6","braco7"],
-    },
+        "exercicios": ["braco1", "braco2","brac3","braco4","braco5","braco6","braco7"]
+    }
 ]
